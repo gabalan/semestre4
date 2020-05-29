@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c99 -g -Wall  -rdynamic CMakeFiles/testSEY.dir/testSEY.c.o CMakeFiles/testSEY.dir/game.c.o CMakeFiles/testSEY.dir/game_io.c.o  -o testSEY libgame.a 
